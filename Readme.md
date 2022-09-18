@@ -16,7 +16,7 @@
 
 #
 
-<img width=1080 src="https://github.com/jacksonMarcelinoFreitas/NLW_eSports/blob/master/assets/gif%20screenchot%20page.png?raw=true"/>
+<img width=1080 src="https://github.com/jacksonMarcelinoFreitas/NLW_eSports/blob/master/assets/gif%20image%20project.gif?raw=true"/>
 
 ### Tecnologias:
 >HTML
